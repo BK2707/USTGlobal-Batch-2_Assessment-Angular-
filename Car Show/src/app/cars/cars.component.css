@@ -1,0 +1,9 @@
+.col-md-3.mt-3.float-left{
+    overflow: scroll;
+    height: 600px;
+    background-color: black;
+}
+
+.card.card-body{
+    background-color:blue;
+}
